@@ -1,2 +1,2 @@
-# filter-implementation-in-Verilog
-Implentation of various filters in Verilog
+# Filter Implentations
+Implentation of Low Pass and High Pass IIR filters.
